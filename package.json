@@ -1,0 +1,15 @@
+{
+  "name": "3.1-express-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Itoje",
+  "license": "ISC",
+  "description": "Working with Express.js",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
